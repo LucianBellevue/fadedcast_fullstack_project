@@ -12,7 +12,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 A cutting-edge AI SaaS platform that enables users to create, discover, and enjoy podcasts with advanced features like text-to-audio conversion with multi-voice AI, podcast thumbnail Image generation and seamless playback.
 
-Live link <a target="_blank" href="https://fadedcast-fullstack-project-8799-6i0rm6w3w.vercel.app/">Here</a>
+Live link <a target="_blank" fadedcast-fullstack-project.vercel.app">Here</a>
 
 ## <a name="tech-stack"> Tech Stack</a>
 
