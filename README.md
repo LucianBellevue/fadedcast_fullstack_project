@@ -59,5 +59,5 @@ Some helpful resources:
 
 ## Author
 
-Lucian Bellevue
-<a href="https://www.linkedin.com/in/lucianbellevue/" target="_blank">LinkedIn</a>
+-Lucian Bellevue<br>
+-<a href="https://www.linkedin.com/in/lucianbellevue/" target="_blank">LinkedIn</a>
