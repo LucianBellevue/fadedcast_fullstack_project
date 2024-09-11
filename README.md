@@ -21,7 +21,6 @@ Live link - currently under maintenance <a target="_blank" href="https://fadedca
 - Convex
 - OpenAI
 - Clerk
-- ShadCN
 - Tailwind CSS
 
   ## <a name="features"> Features</a>
